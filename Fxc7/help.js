@@ -2,8 +2,8 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 
-SUBSCRIBE:ANKER PRODUCTION
-DI SITU ADA TUTORIAL JADI BOT
+ASSINAR: PRODUÇÃO DE ANKER
+HÁ UM TUTORIAL SO BOT
 
 ╭──────「 *REGULATION ${name}* 」
 ┴
