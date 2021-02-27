@@ -2,10 +2,10 @@ const help = (prefix) => {
 	return `
 ╔══✪〘 INFORMAÇÕES〙✪══
 ║
-╠🐉 *CAUSS BOT* 
+╠🐉 *𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄ BOT* 
 ╠🐉 *2.4*
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS
-╠🐉 *wa.me/+5547992091566*
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃬⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄
+╠🐉 *wa.me/+5573981044096*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVOS 〙✪══
@@ -220,16 +220,16 @@ const help = (prefix) => {
 ║
 ╠══✪〘 CAUSS NO CONTROLE 〙✪══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
-║ *YOUTUBE: https://youtube.com/causs*
+║ *NOME: ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄*
+║ *INSTA: off*
+║ *WPP: wa.me/+557381044096*
+║ *YOUTUBE: off*
 ║
 ║  *"Peita ou respeita🐊🚩*
 ║  *"kiba não xereka"*
 ║
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄ BOT 〙`
 }
 
 exports.help = help
