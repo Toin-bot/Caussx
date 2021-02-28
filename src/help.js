@@ -218,7 +218,7 @@ const help = (prefix) => {
 ║🐊 *grita*
 ║
 ║
-╠══✪〘 CAUSS NO CONTROLE 〙✪══
+╠══✪〘 ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄ NO CONTROLE 〙✪══
 ║
 ║ *NOME: ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄*
 ║ *INSTA: off*
