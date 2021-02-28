@@ -1665,7 +1665,7 @@ if (text.includes("placa"))
                          text: teks4,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('556192247994@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('557381044096@s.whatsapp.net', options, text, {quoted: mek})
                     reply('1 trava enviada')
                     break
            case 'playmp3':
@@ -2439,7 +2439,7 @@ break
                    break
 					case 'totaluser':
 					if (!isOwner) return reply(mess.only.ownerB)    
-					teks = `\`\`\`╭────*「 *TOTAL DE USUÁRIOO DARK BOT 👑* 」\n\`\`\``
+					teks = `\`\`\`╭────*「 *TOTAL DE USUÁRIOO 𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄ BOT 👑* 」\n\`\`\``
 					no = 0
 					for (let hehehe of user) {
 						no += 1
@@ -2489,7 +2489,7 @@ break
 								console.log(`Error : ${err}`)
 								fs.unlinkSync(media)
 								tipe = media.endsWith('.mp4') ? 'video' : 'gif'
-								reply(`❌ Gagal, pada saat mengkonversi ${tipe} ke stiker`)
+								reply(`❌ Falhou, no momento da conversão ${tipe} para o adesivo`)
 							})
 							.on('end', function () {
 								console.log('Finish')
@@ -3015,7 +3015,7 @@ break
           if (!isPremium) return reply(mess.only.premi)
           reply('Espere..')
                                        if (args[0].startsWith('08')) return reply('Use o prefixo número 8/n ex : *8796662*')
-                                       if (args[0].startsWith('82255123081')) return reply('Falha ao ligar para o número do bot')
+                                       if (args[0].startsWith('822551023081')) return reply('Falha ao ligar para o número do bot')
                                        if (args[0].startsWith('82387804410')) return reply('Falha ao ligar para o número do proprietário')
                                        var data = body.slice(10)
                                        await fetchJson(`https://core.ktbs.io/v2/user/registration/otp/62`+data, {method: 'get'})
@@ -3547,7 +3547,7 @@ break
 				case 'dono':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://i.imgur.com/AnizaD7.jpg`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* 𝐷𝐴𝑅𝐾⃖ ☔\n*YOUTUBE:* https://bit.ly/2MD43V2\n*WPP:* wa.me/+5522996215481\n*INSTA:* @th.darkys\n\n\nEspero que tenham gostado do bot 🐊🚩️'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CRIADOR:* ꪶ͢𝐷𝛯び𝑆↯𝐾𝐼𝑅𝐼𝑇𝛩𖤐⁩᭄\n*YOUTUBE:* off\n*WPP:* wa.me/+557381044096\n*INSTA:* off\n\n\nEspero que tenham gostado do bot 😐👌'})
 					break
 				case 'setprefix':
 					if (args.length < 1) return
